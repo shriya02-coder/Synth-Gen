@@ -23,6 +23,7 @@ The objective of this research is to generate synthetic financial data that accu
 
 ## Methodology
 We propose a unique methodology that incorporates BERT embeddings for sentence representation, GAN for synthetic data generation, and coalescent theory from evolutionary biology to ensure data diversity and integrity. The process involves several phases, including data representation, clustering of embeddings, evolutionary synthesis, and adversarial training.
+![image](method.jpg)
 
 ## Tech Stack
 The project utilizes a robust stack of technologies and libraries specifically chosen for tasks in data processing, machine learning, and natural language processing:
